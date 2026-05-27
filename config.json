@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscerify",
+        "uuid": 2228280,
+        "checksum": "bvjgl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
